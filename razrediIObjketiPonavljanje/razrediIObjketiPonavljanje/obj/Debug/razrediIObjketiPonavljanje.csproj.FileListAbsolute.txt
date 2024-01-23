@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\razrediIObjketiPonavljanje\razrediIObjketiPonavljanje\bin\Debug\razrediIObjketiPonavljanje.exe.config
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\razrediIObjketiPonavljanje\razrediIObjketiPonavljanje\bin\Debug\razrediIObjketiPonavljanje.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\razrediIObjketiPonavljanje\razrediIObjketiPonavljanje\bin\Debug\razrediIObjketiPonavljanje.pdb
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\razrediIObjketiPonavljanje\razrediIObjketiPonavljanje\obj\Debug\razrediIObjketiPonavljanje.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\razrediIObjketiPonavljanje\razrediIObjketiPonavljanje\obj\Debug\razrediIObjketiPonavljanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\razrediIObjketiPonavljanje\razrediIObjketiPonavljanje\obj\Debug\razrediIObjketiPonavljanje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\razrediIObjketiPonavljanje\razrediIObjketiPonavljanje\obj\Debug\razrediIObjketiPonavljanje.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\razrediIObjketiPonavljanje\razrediIObjketiPonavljanje\obj\Debug\razrediIObjketiPonavljanje.pdb
